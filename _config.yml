@@ -1,0 +1,13 @@
+title: "Cheng Zeng"
+author: "Cheng Zeng"
+description: "Statistician | Bayesian Methods | ML Research"
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
