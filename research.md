@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 ---
@@ -16,7 +16,6 @@ permalink: /research/
 
 - Consistent Model-based Clustering Using the Quasi-Bernoulli Stick-breaking Process. Cheng Zeng, Jeffrey W Miller, and Leo L Duan. *Journal of Machine Learning Research*, 24(153):1--32, 2023. [PDF.](https://www.jmlr.org/papers/volume24/22-0436/22-0436.pdf) [Codes.](https://github.com/Zeng-Cheng/quasi-bernoulli-stick-breaking)
 
-
+<div style="margin-top: 3rem;"></div>
 ---
-
 For a full list of publications and preprints, check my [CV](cv/CV-ZengCheng.pdf) or my [Google Scholar](https://scholar.google.com/citations?user=ktE2k0EAAAAJ&hl=en).
